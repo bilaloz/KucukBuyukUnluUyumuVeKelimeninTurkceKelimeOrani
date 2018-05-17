@@ -7,7 +7,7 @@ Ayrıca girilen kelimenin analizini yaparak ne kadar Türkçe içerik olduğunu 
 
 
 Ekran Görüntüleri :
-[![Demo CountPages alpha](https://share.gifyoutube.com/fLiGn7Y1ok.gif)](https://www.youtube.com/watch?v=fLiGn7Y1okI&feature=youtu.be)
+[![Demo CountPages alpha](https://j.gifs.com/0V7vxX.gif)](https://www.youtube.com/watch?v=fLiGn7Y1okI&feature=youtu.be)
 
 
 
