@@ -7,8 +7,7 @@ Ayrıca girilen kelimenin analizini yaparak ne kadar Türkçe içerik olduğunu 
 
 
 Ekran Görüntüleri :
-[![Demo CountPages alpha](https://share.gifyoutube.com/KzB6Gb.gif)](http://www.bilaloz.net/wp-content/uploads/2018/05/WhatsApp-Video-2018-05-17-at-03.46.32.mp4)
+[![Watch the video](https://raw.github.com/GabLeRoux/WebMole/master/ressources/WebMole_Youtube_Video.png)](https://www.youtube.com/watch?v=fLiGn7Y1okI&feature=youtu.be)
 
-<div style="width:100%;height:0px;position:relative;padding-bottom:178.218%;"><iframe src="https://streamable.com/s/b3vaj/uvdttb" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
 
 
