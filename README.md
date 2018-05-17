@@ -12,7 +12,7 @@ Ekran Görüntüleri :
 [![Demo CountPages alpha](https://j.gifs.com/0V7vxX.gif)](https://www.youtube.com/watch?v=fLiGn7Y1okI&feature=youtu.be)
 
 
-<a href="https://hizliresim.com/JQ5N9J"><img src="https://i.hizliresim.com/JQ5N9J.jpg"></a>
+<img src="https://i.hizliresim.com/JQ5N9J.jpg" alt="Reim 1" data-canonical-src="https://i.hizliresim.com/JQ5N9J.jpg" style="max-width:100%;">
 [url=https://hizliresim.com/OoWNb4][img]https://i.hizliresim.com/OoWNb4.jpg[/img][/url]
 [url=https://hizliresim.com/JQ5N9J][img]https://i.hizliresim.com/JQ5N9J.jpg[/img][/url]
 
