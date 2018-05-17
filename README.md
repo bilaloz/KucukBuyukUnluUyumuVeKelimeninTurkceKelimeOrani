@@ -10,8 +10,16 @@ Ekran Görüntüleri :
 
 
 [![Demo CountPages alpha](https://j.gifs.com/0V7vxX.gif)](https://www.youtube.com/watch?v=fLiGn7Y1okI&feature=youtu.be)
+
+Resim 1
 <a href="https://hizliresim.com/OoWNb4"><img src="https://i.hizliresim.com/OoWNb4.jpg"></a>
+
+
+Resim 2
 <a href="https://hizliresim.com/JQ5N9J"><img src="https://i.hizliresim.com/JQ5N9J.jpg"></a>
+
+
+Resim 3
 <a href="https://hizliresim.com/z0WLZ7"><img src="https://i.hizliresim.com/z0WLZ7.jpg"></a>
 
 
